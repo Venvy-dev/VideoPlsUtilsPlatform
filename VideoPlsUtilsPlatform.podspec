@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
                         A private Utils Platform framework for VideoPls.Including Networking, LoadImage, MQTT, Encryption
                        DESC
 
-  s.homepage         = 'https://git.coding.net/Zard1096/VideoPlsUtilsPlatfrom.git'
+  s.homepage         = 'https://github.com/Zard1096/VideoPlsUtilsPlatform'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Zard1096'     => 'mr.zardqi@gmail.com',
                          'LiShaoshuai'  => 'lishaoshuai1990@gmail.com',   
