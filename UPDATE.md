@@ -1,4 +1,7 @@
 # VideoPlsUtilsPlatformSDK
+###1.7.3
+1. 加强mqtt的pointerArray数组越界保护
+
 ###1.7.0
 1. 更新mqtt server服务器地址
 2. 更新自动化shell脚本
