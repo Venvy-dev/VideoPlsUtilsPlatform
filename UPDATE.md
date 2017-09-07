@@ -1,4 +1,6 @@
 # VideoPlsUtilsPlatformSDK
+###1.7.4
+
 ###1.7.3
 1. 加强mqtt的pointerArray数组越界保护
 
