@@ -1,8 +1,7 @@
 # VideoPlsUtilsPlatformSDK
-
-###1.7.5
-
-###1.7.4
+###1.8.0
+1. 添加Lua
+2. 添加子商城
 
 ###1.7.3
 1. 加强mqtt的pointerArray数组越界保护
