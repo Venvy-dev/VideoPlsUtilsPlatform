@@ -1,4 +1,7 @@
 # VideoPlsUtilsPlatformSDK
+###1.8.1
+
+
 ###1.8.0
 1. 添加Lua
 2. 添加子商城
