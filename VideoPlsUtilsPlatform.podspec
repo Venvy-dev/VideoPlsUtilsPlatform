@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'VideoPlsUtilsPlatform'
-  s.version          = '1.8.3'
+  s.version          = '1.8.4'
   s.summary          = 'A private Utils Platform framework for VideoPls.'
 
 # This description is used to generate tags and improve search results.
@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   s.author           = { 'Zard1096'     => 'mr.zardqi@gmail.com',
                          'LiShaoshuai'  => 'lishaoshuai1990@gmail.com',   
                          'Bill'         => 'fuleiac@gmail.com'          }
-  s.source           = { :http => 'https://cytroncdn.videojj.com/iOS_package/VideoPlsUtilsPlatform/VideoPlsUtilsPlatformSDK_1.8.3.zip' }
+  s.source           = { :http => 'https://cytroncdn.videojj.com/iOS_package/VideoPlsUtilsPlatform/VideoPlsUtilsPlatformSDK_1.8.4.zip' }
 
   s.requires_arc = true
   s.ios.deployment_target = '7.0'
