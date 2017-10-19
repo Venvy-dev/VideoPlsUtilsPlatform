@@ -1,4 +1,10 @@
 # VideoPlsUtilsPlatformSDK
+###1.8.5
+1. 修复购物车管理当number为0时return nil造成crash
+2. 修复当lua_state不存在时settop造成crash
+3. 添加子商城加载图
+4. 添加抢购状态
+5. 当货架为空时添加筹备中
 
 ###1.8.4
 1. 子商城添加添加购物车成功提示
