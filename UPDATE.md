@@ -1,4 +1,9 @@
 # VideoPlsUtilsPlatformSDK
+###1.8.6
+1. 子商城界面细调
+2. 子商城修复闪退问题
+3. 子商城添加小白点
+
 ###1.8.5
 1. 修复购物车管理当number为0时return nil造成crash
 2. 修复当lua_state不存在时settop造成crash
