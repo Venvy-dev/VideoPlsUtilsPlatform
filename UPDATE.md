@@ -1,4 +1,7 @@
 # VideoPlsUtilsPlatformSDK
+###1.8.7
+1. 修复iOS11 statusBar 占位可能造成webView的白条
+
 ###1.8.6
 1. 子商城界面细调
 2. 子商城修复闪退问题
