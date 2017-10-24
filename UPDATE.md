@@ -1,4 +1,8 @@
 # VideoPlsUtilsPlatformSDK
+###1.8.8
+1. 修复iOS11 切竖屏展示statusBar后再切横屏会导致WebView被下移20像素
+2. 修复WebView传参错误
+
 ###1.8.7
 1. 修复iOS11 statusBar 占位可能造成webView的白条
 
