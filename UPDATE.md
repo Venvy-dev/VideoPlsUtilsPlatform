@@ -1,4 +1,9 @@
 # VideoPlsUtilsPlatformSDK
+
+###1.8.9
+1. 修复iOS 11 scrollView 导致挤压留白
+2. 合并1.7.0 Live bug fix
+
 ###1.8.8
 1. 修复iOS11 切竖屏展示statusBar后再切横屏会导致WebView被下移20像素
 2. 修复WebView传参错误
@@ -39,6 +44,8 @@
 1. 添加Lua
 2. 添加子商城
 
+###1.7.5
+
 ###1.7.3
 1. 加强mqtt的pointerArray数组越界保护
 
@@ -49,6 +56,22 @@
 4. 移动report数据库至videopls文件夹下
 5. 添加通用路径获取类
 6. 添加序列帧实现
+
+###1.6.11
+1. 修改sessionManager管理从NSMutableDictionary转为NSCache
+
+###1.6.10
+1. 对sessionManager管理objectForKey添加try-catch
+
+###1.6.9
+
+###1.6.8
+1. 修复IDFA不生效
+2. 对header取值添加try-catch
+
+###1.6.7
+1. 修复加密参数可能为空
+2. MQTT抓取topic返回在对应线程中
 
 ###1.6.1
 1. 切换AFN版本为2.0
