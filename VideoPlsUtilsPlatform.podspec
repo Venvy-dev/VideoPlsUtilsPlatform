@@ -21,12 +21,12 @@ Pod::Spec.new do |s|
                         A private Utils Platform framework for VideoPls.Including Networking, LoadImage, MQTT, Encryption
                        DESC
 
-  s.homepage         = 'https://github.com/Zard1096/VideoPlsUtilsPlatform'
+  s.homepage         = 'https://github.com/Venvy-dev/VideoPlsUtilsPlatform'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Zard1096'     => 'mr.zardqi@gmail.com',
                          'LiShaoshuai'  => 'lishaoshuai1990@gmail.com',   
                          'Bill'         => 'fuleiac@gmail.com'          }
-  s.source           = { :http => 'https://cytroncdn.videojj.com/iOS_package/VideoPlsUtilsPlatform/VideoPlsUtilsPlatformSDK_1.8.10.zip' }
+  s.source           = { :http => 'https://global-sdk.videojj.com/iOS_package/VideoPlsUtilsPlatform/VideoPlsUtilsPlatformSDK_1.8.10.zip' }
 
   s.requires_arc = true
   s.ios.deployment_target = '7.0'
