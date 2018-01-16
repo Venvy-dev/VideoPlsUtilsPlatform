@@ -1,4 +1,6 @@
 # VideoPlsUtilsPlatformSDK
+###1.8.10
+Fix http cache
 
 ###1.8.9
 1. 修复iOS 11 scrollView 导致挤压留白
@@ -56,6 +58,13 @@
 4. 移动report数据库至videopls文件夹下
 5. 添加通用路径获取类
 6. 添加序列帧实现
+
+###1.6.13
+1. 修复HTTP sessionCache提前释放导致request task跑在invalid session上崩溃
+
+###1.6.12
+1. 优化HTTP session释放
+2. 对MQTT释放添加保护
 
 ###1.6.11
 1. 修改sessionManager管理从NSMutableDictionary转为NSCache
